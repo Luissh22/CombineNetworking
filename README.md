@@ -1,3 +1,3 @@
 # CombineNetworking
 
-A description of this package.
+Swift package providing convenience methods for using Combine for Networking
